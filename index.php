@@ -1,4 +1,6 @@
-
+<?php
+//Inicio do projeto
+?>
 <!DOCTYPE html>
 <html lang="pt-br">
     <head>
